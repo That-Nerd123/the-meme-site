@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+  }
+
+  .toptext {
+    position: fixed; /* or absolute */
+    top: 5%;
+    left: 50%;
+    color: white;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .centervideo{
+    position: fixed; /* or absolute */
+    top: 50%;
+    left: 50%;
+    color:white;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    font-family: 'Roboto', sans-serif;
+  }
